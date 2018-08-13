@@ -13,7 +13,7 @@ $ sudo apt-get install -y nodejs
 ## Step 2: Clone repository locally
 
 ```sh
-$ git clone https://github.com/Lilit/presence-bot
+$ git clone https://<your_username>@bitbucket.org/haruttosunyan/slackbot.git
 (You may need to install git first "sudo apt-get install git")
 ```
 
